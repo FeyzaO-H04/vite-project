@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+}
+
+.header{
+  background-color: blue;
+  height: 90px;
+}
+
+.main{
+  background-color: blanchedalmond;
+  height: 400px;
+}
+
+.footer{
+  background-color: rgb(23, 110, 81);
+  height: 90px;
+}
